@@ -1,6 +1,3 @@
-# Pag-ejemplo-Shinigamy19
-Pag realizada para Tecno 3F
-
 # 🌐 Sitio Web Personal — Shinigamy19
 
 Bienvenido/a a mi sitio web personal. Esta página fue diseñada desde cero usando **HTML y CSS** puro, reflejando mi identidad como **creador de contenido**, **diseñador multimedia** y **artista digital**.
