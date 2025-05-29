@@ -160,6 +160,13 @@ footer {
   background-color: #000000;
 }
 
+.linkedin{
+    box-shadow: 0 2px 10px rgba(0, 132, 255, 0.432);
+}
+
+.linkedin:hover {
+  background-color: #0066ff;
+}
 
 /* Formulario en la sección Contacto */
 
